@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hpoggi/express_api/issues"
   },
-  "homepage": "https://github.com/hpoggi/express_api#readme"
+  "homepage": "https://github.com/hpoggi/express_api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
